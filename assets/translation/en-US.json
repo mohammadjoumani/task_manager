@@ -1,0 +1,19 @@
+{
+  "no_route_found": "No screen found",
+  "no_data": "No data",
+  "success": "Successfully",
+  "bad_request_error": "Invalid request. Try again later",
+  "no_content": "Success with no content",
+  "forbidden_error": "Forbidden request. Try again later",
+  "unauthorized_error": "User unauthorized, try again later",
+  "not_found_error": "URL not found, try again later",
+  "conflict_error": "Conflict found, try again later",
+  "Internal_server_error": "An error occurred, try again later",
+  "unknown_error": "An error occurred, try again later",
+  "timeout_error": "Timeout, try again later",
+  "connection_error": "We're experiencing connection issues. Please try again later",
+  "default_error": "An error occurred, try again later",
+  "cache_error": "Cache error, try again later",
+  "location_denied": "Please allow location access to find the nearest service providers",
+  "no_internet_error": "Please check your internet connection"
+}
